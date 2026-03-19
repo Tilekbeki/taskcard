@@ -6,3 +6,5 @@
 
 В проекте используется react, typescript, css
 
+*результат также доступен по* [ссылке на github pages](tilekbeki.github.io/taskcard/)
+
